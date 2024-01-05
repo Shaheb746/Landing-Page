@@ -200,6 +200,9 @@ a{
     .nav-menu.active{
         left: 0;
     }
+    .content button{
+        background-color: #f9491d;
+    }
 }
 
 
